@@ -1050,46 +1050,4 @@ height: 10%;
     background-color: lightgreen;
     border-radius: 1vmax;
 } 
-
- 
-
-
-
-
 /* -------------------------------------------------------------- */
-
-/* .lastpage{
-    width: 100%;
-    height: 50%;
-    display: flex;
-    justify-content: space-around;
-    flex-direction: row;
-    background-color: #044964;
-}
-
-.lastpage p{
-    font-size: 1vmax;
-    font-weight: 400;
-    margin-left: 7vmax;
-    margin-top: 5vmax;
-    color: white;
-}
-
-.lastpage span{
-    width: 10.5%;
-    height: 35%;
-    text-align: center;
-    margin-right: 5vmax;
-    border-radius: 2vmax;
-    background-color: transparent;
-    border: 1px solid;
-    color: white;
-    padding: 1vmax 1vmax;
-    margin-top: 4vmax;
-}
-
-.lastpage span i{
-    background-color: lightgreen;
-    border-radius: 1vmax;
-} */
-
